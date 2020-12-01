@@ -1,0 +1,24 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2239504_41fm9rewl9.eot?t=1606788091635'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2239504_41fm9rewl9.eot?t=1606788091635#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPgAAsAAAAAB+wAAAORAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCfgqDXIMZATYCJAMMCwgABCAFhG0HNRvWBlFULbJkPzV5UqIxBGpgMD0ZDARUPlAAsECBjQEUDxAP39+b5773tlZLqFSM9/GlpXAotBOgWKibd7GMV4G//3OZAzQqzx9LBsW6kF/gND3Y9JyeUhNyE25DelhqpQQmkEyu1E9ks7au//N5Lqc3nx/Y/EDnMhpr0dhWz+9FASYY4FiLIitgirlh7CaChnicQNu6hty5zvECVQUYF4grL0uDaiakNHCh6a1XLC3iXk0z3aZd4I5/P/71okpSy8BJi8uVCdNvXsVKrBJd5BQ30yVgrCLjACjEsjK1UIiqBwraXrVoA2yrX/Dt//98Q02b/cMjJKIONHfBjhxIrsiMXS7NLNckXHuGelR/xqfKTq8NafUHE3+u65W2wwLl9bQjQKK8hlawooNmTHYDoGDOKVstc1klNV9pK7yPGnXYtbqFoX5fZvz0FJFu461oo6Epq6MeRNQ1knr0uNTo4SlyhIAT1gaWcRJbwDDk+MuqVOAAY96iE0We3Q53MwJgkYPot9FwI4hZFV+nO4qa57XULz89lV08VKBabavK3HYM+CnxnZ9yj1lm+DIBzKhghOOqru1GaCJz2IkaeWWSzzyAplRoEDx2U3wachIZuVY0xcnuQro95eXDphnvZ9TyfkOphHmq3TNV5atxVVY6FAbUOi56ZLownjglCVlWQt0naH8iRsHryfRulbWROOxmoudO4iAuZkPio21kCA3uYhJIa7PofLlH/r0NkivEUL7hlvG7yqfOwKG+etyXTwGY5eWYAZiB5WUBmNpLZZiBmAHl5ZAjgP7/Pr7gYKX8/3NawcZK/IPnkb0n5XYgU/qq2uwU8NXqb27tnkfzHtPB/3KWyYjfNt8KQrm4WnVK9cfMZKuB5YQ2LFBBIDf2N9w9m9xEM02zBEnDGrKmDbKwB6jpOERd0xHa9m1Wd0ywgigt7PmSEIa+kfS9IBv6IQv7i5q5f9QNo4C2ZVBt2bEVDqFmMGlCJjq/0cuIQoWiUhetJ7IyX+O0lfM34tQpoLiIWL6xoZB4ihkhD6sXKgrdOQpQRzqNfD/CQI5cMqTlKRL3RUXdq97UcokCqDvDiEYQE9K9IYchElK0u6gXPn9CLBmfhhsMPeUNYSmnd9TV0ulAblxhJ8OtvJJ6sPQIoSCFRQJoLSWID6sRFFcPchGDaLEHlGN9baWT6upqLe8JXqButAH2ypEiR1Guw+KsGBFgEgAAAAA=') format('woff2'),
+  url('//at.alicdn.com/t/font_2239504_41fm9rewl9.woff?t=1606788091635') format('woff'),
+  url('//at.alicdn.com/t/font_2239504_41fm9rewl9.ttf?t=1606788091635') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2239504_41fm9rewl9.svg?t=1606788091635#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont-tupu:before {
+  content: "\e7ac";
+}
+
+.iconfont-wode:before {
+  content: "\e7ad";
+}
